@@ -4,7 +4,7 @@
 
 ### Author Links
 
-👋 Hello, I'm Dave Gray.
+👋 Hello, I'm Dave Gray
 
 📚 [My Courses](https://courses.davegray.codes/)
 
